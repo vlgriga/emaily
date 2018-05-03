@@ -1,0 +1,26 @@
+{
+  "name": "emaily",
+  "version": "1.0.0",
+  "description": "app for sending emails",
+  "main": "index.js",
+  "engines": {
+    "node": "8.9.4",
+    "npm": "5.7.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlgriga/emaily.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlgriga/emaily/issues"
+  },
+  "homepage": "https://github.com/vlgriga/emaily#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
